@@ -1,0 +1,2 @@
+projekt;srp;8.6.2025.;Završen
+izrada aplikacije;java;11.6.2025.;U tijeku
